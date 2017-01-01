@@ -6,7 +6,7 @@ enable_testing()
 # sets
 set (CMAKE_CXX_STANDARD 14)
 
-set(CUCUMBERTEST_HDR_FILES ${CMAKE_CURRENT_SOURCE_DIR}/include/cucumberTest/CucumberApp.hxx))
+set(CUCUMBERTEST_HDR_FILES ${CMAKE_CURRENT_SOURCE_DIR}/include/cucumberTest/CucumberApp.hxx)
 set(CUCUMBERTEST_SRC_FILES ${CMAKE_CURRENT_SOURCE_DIR}/src/CucumberApp.cxx)
 
 
